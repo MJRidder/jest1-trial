@@ -1,23 +1,22 @@
 {
-  "name": "terminal",
+  "name": "jest1-trial",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lechien73/terminal.git"
+    "url": "git+https://github.com/MJRidder/jest1-trial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lechien73/terminal/issues"
+    "url": "https://github.com/MJRidder/jest1-trial/issues"
   },
-  "homepage": "https://github.com/lechien73/terminal#readme",
-  "dependencies": {
-    "node-static": "^0.7.11",
-    "node-pty": "^0.10.1",
-    "total4": "^0.0.45"
+  "homepage": "https://github.com/MJRidder/jest1-trial#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
