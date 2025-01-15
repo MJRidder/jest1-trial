@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MJRidder/jest1-trial#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
